@@ -1,4 +1,4 @@
-\# 🚀 Personal AI Operating System: The Idea Hopper
+\ 🚀 Personal AI Operating System: The Idea Hopper
 
 
 
@@ -6,11 +6,11 @@ Welcome to my central parsing core! This public artifact serves as the capstone 
 
 
 
-\* \*\*Live Application:\*\* \[PASTE YOUR LIVE STREAMLIT APP URL HERE]
+ \*\*Live Application:\*\* \[PASTE YOUR LIVE STREAMLIT APP URL HERE]
 
-\* \*\*Developer:\*\* The-tech17
+ \*\*Developer:\*\* The-tech17
 
-\* \*\*Hardware Environment:\*\* Dell Laptop (Intel i3 Generation Workhorse)
+ \*\*Hardware Environment:\*\* Dell Laptop (Intel i3 Generation Workhorse)
 
 
 
@@ -24,11 +24,11 @@ Welcome to my central parsing core! This public artifact serves as the capstone 
 
 
 
-\* \*\*My Starting Baseline:\*\* I locate myself at a \[Insert your scale 1-5, e.g., 2/5] on the AI Builder Ladder. I know the basics of Python, but my biggest technical hurdle was learning how to deploy code to production.
+ \*\*My Starting Baseline:\*\* I locate myself at a \[Insert your scale 1-5, e.g., 2/5] on the AI Builder Ladder. I know the basics of Python, but my biggest technical hurdle was learning how to deploy code to production.
 
-\* \*\*The Partnership Rule:\*\* I will let AI write boilerplates, generate components, and debug errors, but I will never let it define the core logic, structure, or architecture of my project without my manual review.
+ \*\*The Partnership Rule:\*\* I will let AI write boilerplates, generate components, and debug errors, but I will never let it define the core logic, structure, or architecture of my project without my manual review.
 
-\* \*\*The Ultimate Goal:\*\* I built this AI Command Center to instantly parse chaotic, unstructured raw thoughts into actionable data formats, solving my daily problem of losing creative ideas.
+ \*\*The Ultimate Goal:\*\* I built this AI Command Center to instantly parse chaotic, unstructured raw thoughts into actionable data formats, solving my daily problem of losing creative ideas.
 
 
 
@@ -42,15 +42,15 @@ I don't just "chat" with AI; I follow a strict, multi-tool execution loop to bui
 
 
 
-1\. \*\*Phase 1: Brainstorming (Gemini Chat)\*\* -> mapped out logic and the application framework.
+1\. \*Phase 1: Brainstorming (Gemini Chat)\*\* -> mapped out logic and the application framework.
 
-2\. \*\*Phase 2: Environment Setup (Command Prompt)\*\* -> Initialized local project architecture and isolated dependencies using a Python virtual environment (`venv`).
+2\. \*Phase 2: Environment Setup (Command Prompt)\*\* -> Initialized local project architecture and isolated dependencies using a Python virtual environment (`venv`).
 
-3\. \*\*Phase 3: Vibe Coding (VS Code / AI Editor)\*\* -> Co-authored code blocks with the LLM while supervising every function line-by-line.
+3\. \*Phase 3: Vibe Coding (VS Code / AI Editor)\*\* -> Co-authored code blocks with the LLM while supervising every function line-by-line.
 
-4\. \*\*Phase 4: The Quality Gate (Custom Checklist)\*\* -> Tested inputs locally before committing to version control.
+4\. \*Phase 4: The Quality Gate (Custom Checklist)\*\* -> Tested inputs locally before committing to version control.
 
-5\. \*\*Phase 5: Shipping (GitHub + Streamlit Cloud)\*\* -> Pushed clean code to production while keeping keys private.
+5\. \*Phase 5: Shipping (GitHub + Streamlit Cloud)\*\* -> Pushed clean code to production while keeping keys private.
 
 
 
